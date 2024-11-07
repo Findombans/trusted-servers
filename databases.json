@@ -4,7 +4,7 @@
 		"themeColor": "#DB6574",
 		"logoUrl": "https://bans.domdivs.link/images/logo.png",
 		"active": true,
-		"requestUrl": "https://bans.domdivs.link/firewallgg/checkuser/userid",
+		"requestUrl": "https://bans.domdivs.link/firewallgg/checkuser/",
 		"method": "get",
 		"appealLink": "https://bans.domdivs.link/appeal",
 		"otherData": {}
