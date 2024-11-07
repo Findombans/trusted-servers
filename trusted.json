@@ -3,14 +3,16 @@
     "name": "Findom Bans",
     "url": "https://discord.gg",
     "logourl": "https://bans.domdivs.link/images/logo.png",
-    "bg": "https://bans.domdivs.link/images/logo.png"
+    "bg": "https://bans.domdivs.link/images/logo.png",
+      "fontColor": "#FFFFFF"
 
   },
     {
     "name": "Kinks and Queens",
     "url": "https://discord.gg/kinksandqueens",
     "logourl": "https://cdn.discordapp.com/icons/1196626045244280993/a_6b15a7fff5d6a9f0d2c0f8d289af1577.gif",
-              "bg": "https://cdn.discordapp.com/icons/1196626045244280993/a_6b15a7fff5d6a9f0d2c0f8d289af1577.gif"
+              "bg": "https://cdn.discordapp.com/icons/1196626045244280993/a_6b15a7fff5d6a9f0d2c0f8d289af1577.gif",
+        "fontColor": "#FFFFFF"
 
   }
 ]
