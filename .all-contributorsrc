@@ -1,0 +1,25 @@
+{
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-blue.svg)](#contributors)",
+  "projectName": "firewallgg",
+  "projectOwner": "Itz-Hyperz",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "Findom Bans",
+      "name": "Findom Bans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119133649?v=4",
+      "profile": "",
+      "contributions": [
+        "ideas",
+        "tool"
+      ]
+    }
+  ],
+  "files": [
+    "README.md"
+  ],
+  "contributorsPerLine": 7,
+  "commitConvention": "angular"
+}
