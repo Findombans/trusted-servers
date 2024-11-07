@@ -2,11 +2,11 @@
 	{
 		"name": "Findom Bans",
 		"themeColor": "#DB6574",
-		"logoUrl": "",
+		"logoUrl": "https://bans.domdivs.link/images/logo.png",
 		"active": true,
 		"requestUrl": "https://bans.domdivs.link/api/checkuser/userid",
 		"method": "get",
-		"appealLink": "bans.domdivs.link/appeal",
+		"appealLink": "https://bans.domdivs.link/appeal",
 		"otherData": {}
 	}
 ]
