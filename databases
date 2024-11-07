@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Findom Bans",
+		"themeColor": "#DB6574",
+		"logoUrl": "",
+		"active": true,
+		"requestUrl": "https://bans.domdivs.link/api/checkuser/userid",
+		"method": "get",
+		"appealLink": "bans.domdivs.link/appeal",
+		"otherData": {}
+	}
+]
