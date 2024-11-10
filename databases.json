@@ -2,31 +2,11 @@
 	{
 		"name": "Findom Bans",
 		"themeColor": "#DB6574",
-		"logoUrl": "https://bans.domdivs.link/images/logo.png",
+		"logoUrl": "https://findombans.top/images/logo.png",
 		"active": true,
-		"requestUrl": "https://bans.domdivs.link/api/checkuser/",
+		"requestUrl": "https://findombans.top/api/checkuser/",
 		"method": "get",
-		"appealLink": "https://bans.domdivs.link/appeal",
-		"otherData": {}
-	},
-	{
-		"name": "Findom Bans",
-		"themeColor": "#DB6574",
-		"logoUrl": "https://bans.domdivs.link/images/logo.png",
-		"active": true,
-		"requestUrl": "https://bans.domdivs.link/firewallgg/checkuser/",
-		"method": "get",
-		"appealLink": "https://bans.domdivs.link/appeal",
-		"otherData": {}
-	},
-	{
-		"name": "Findom Bans",
-		"themeColor": "#DB6574",
-		"logoUrl": "https://bans.domdivs.link/images/logo.png",
-		"active": true,
-		"requestUrl": "https://bans.domdivs.link/api/v1/checkUser/",
-		"method": "get",
-		"appealLink": "https://bans.domdivs.link/appeal",
+		"appealLink": "https://findombans.top/appeal",
 		"otherData": {}
 	}
 
